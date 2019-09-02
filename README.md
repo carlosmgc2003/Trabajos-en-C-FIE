@@ -1,2 +1,3 @@
-# Trabajos en C FIE
- Trabajos en C realizados para Estructura de Datos y Algoritmos
+# Facultad de Ingeniería del Ejercito
+## Estructura de Datos y Algoritmos
+Ejercicios de la materia, realizados en C.
